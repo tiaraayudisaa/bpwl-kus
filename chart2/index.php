@@ -51,7 +51,7 @@ $.getJSON("datas.php",function (data){
         chart: {
             width: 1160,
             height: 650,
-            title: 'Grafik Penerimaan Mahasiswa Baru Politeknik Caltex Riau',
+            title: 'Grafik PMB PCR 2020',
             format: '1'
         },
         yAxis: {
